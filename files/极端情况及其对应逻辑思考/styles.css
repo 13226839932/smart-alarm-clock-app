@@ -1,0 +1,42 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1019px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u48_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:831px;
+  height:501px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u48 {
+  position:absolute;
+  left:188px;
+  top:117px;
+  width:831px;
+  height:501px;
+}
+#u49 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:831px;
+  word-wrap:break-word;
+}
